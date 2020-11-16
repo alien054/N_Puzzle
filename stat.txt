@@ -1,0 +1,14 @@
+Finding Path using Manhattan
+Using  Manhattan
+Total Nodes Explored: 5311
+Total Nodes Expanded: 10467
+Cost: 31
+Total Time: : 1353ms
+Path Starts (manhattan)
+
+Finding Path using Manhattan
+Using  Manhattan
+Total Nodes Explored: 82958
+Total Nodes Expanded: 153500
+Cost: 50
+Total Time: : 564372ms
